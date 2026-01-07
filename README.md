@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Dreamhack Category Chart](https://dreamhack-readme-stats.vercel.app/api/most-solved?username=miroo)
+
 <!--
 **Yerina9/Yerina9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
